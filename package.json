@@ -15,6 +15,10 @@
     "theme",
     "dark"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyKaisei/kaisei-vscode-theme"
+  },
   "contributes": {
     "themes": [
       {
